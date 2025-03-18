@@ -1,1 +1,2 @@
 floor1
+restaurant
